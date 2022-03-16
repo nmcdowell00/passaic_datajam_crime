@@ -1,4 +1,6 @@
 ## Through Github Desktop Applicaiton
+#### Step 1
+First, you will need to download the Github Desktop application. Navigate to this [link](https://desktop.github.com/)
 
 ## Through GitHub Online
 #### Step 1
