@@ -1,6 +1,11 @@
 ## Through Github Desktop Applicaiton
 #### Step 1
-First, you will need to download the Github Desktop application. Navigate to this [link](https://desktop.github.com/)
+First, you will need to download the Github Desktop application. Navigate to this [link](https://desktop.github.com/) to get started with your download.
+
+#### Step 2
+After downloading the GitHub Desktop application you can start using it to interact with repositories. For this example I will download *pittCrime_cleaned.csv* from the *passaic_datajam_crime* repository. To start this process I click on my desired file which brings me to a page containing inforamtion about the file. From here you should select the desktop icon that is shown on the middle right of the page: ![]()
+
+### Step 3
 
 ## Through GitHub Online
 #### Step 1
